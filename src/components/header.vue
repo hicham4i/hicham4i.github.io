@@ -78,7 +78,11 @@ export default {
       },
       contact: [
         { type: "adress", value: "Rabat , Morocco" },
-        { type: "mail", value: "hicham.rabai@outlook.fr" },
+        {
+          type: "mail",
+          value: "hicham.rabai@outlook.fr",
+          link: "mailto:hicham.rabai@outlook.fr",
+        },
         {
           type: "github",
           value: "Github.com/hicham4i",
