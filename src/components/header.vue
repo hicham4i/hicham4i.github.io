@@ -32,15 +32,15 @@
         <div class="item-contact">
           <div
             v-for="(item, index) in contact"
-            class="text-muted contact"
+            class="text-muted contac link"
             v-bind:class="item.type"
             v-bind:key="index"
           >
             <template v-if="item.link">
-              <a :href="item.link" class="link">{{ item.value }}</a>
+              <a :href="item.link">{{ item.value }}</a>
             </template>
             <template v-else>
-              <span class="link">{{ item.value }}</span>
+              <span>{{ item.value }}</span>
             </template>
           </div>
         </div>
@@ -218,9 +218,6 @@ export default {
   }
 }
 .link {
-  width: 48px;
-  height: 48px;
-  padding: 10px;
-  text-align: center;
+  padding: 10px 0 0;
 }
 </style>
