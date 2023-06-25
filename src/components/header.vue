@@ -37,10 +37,10 @@
             v-bind:key="index"
           >
             <template v-if="item.link">
-              <a :href="item.link">{{ item.value }}</a>
+              <a :href="item.link" class="link">{{ item.value }}</a>
             </template>
             <template v-else>
-              {{ item.value }}
+              <span class="link">{{ item.value }}</span>
             </template>
           </div>
         </div>
@@ -216,5 +216,11 @@ export default {
   .item-contact .mail:before {
     background-image: url("./../assets/img/mail.svg");
   }
+}
+.link {
+  width: 48px;
+  height: 48px;
+  padding: 10px;
+  text-align: center;
 }
 </style>
