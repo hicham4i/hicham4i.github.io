@@ -31,8 +31,18 @@ export default {
           title: "EXPERIENCE",
           items: [
             {
-              timeperiod: "08/2019 → CURRENT",
-              title: "DataFlex",
+              timeperiod: "08/2022 → CURRENT",
+              title: "WEBDEV26",
+              descriptions: [
+                '<strong>Solution Architect</strong> for <u><a target="_blank" href="https://lebateaufrancais.com/">Le Bateau Français</a></u> Developed a comprehensive landing page, booking system, and management solution using Next.js, TypeScript, PostgreSQL, Google Calendar, Stripe, and more..',
+                '<strong>Solution Architect</strong> for <u><a target="_blank" href="https://gallery.artibar.com/fr">Artibar Gallery</a></u> Led the creation of an AI-driven platform featuring two core solutions—an online marketplace for selling and exhibiting art, and a text-to-image AI tool that enables users to generate their own artwork using custom AI models developed by our team.',
+                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://chat.rebbebot.com/">RebbeBot</a></u> Developed a GPT-based chatbot that provides responses. enhancing user engagement and interaction on the platform.',
+                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://staff.furrytag.com/login">Furrytag</a></u> Designed and developed a staff dashboard for vets, groomers, and other professionals to manage and update pets information in the AI-powered pet management app.'
+              ],
+            },
+            {
+              timeperiod: "08/2019 → 07/2022",
+              title: "DATAFLEX",
               descriptions: [
                 'Remote Full Stack Developer for <u><a href="https://qrmenu.com/">QRmenu</a></u> <strong>(Angular, AWS Lambda, NodeTs)</strong>.',
                 'Remote Full Stack Developer for <u><a href="https://dopweb.com/">Dopweb</a></u> <strong>(Angular, AWS Lambda, NodeTs)</strong>.',
@@ -78,41 +88,6 @@ export default {
         // },
         {
           right: false,
-          title: "STUDIES",
-          items: [
-            {
-              timeperiod: 2022,
-              title: "Information Systems Engineering",
-              descriptions: [
-                "Database administrator.",
-                "IS Project Manager.",
-                "IS study and development consultant.",
-              ],
-            },
-            {
-              timeperiod: 2020,
-              title: "Computer System Engineering",
-              descriptions: [
-                "Mastery of statistical and data analysis methods.",
-                "Participate in data engineering project for decision making.",
-              ],
-            },
-            {
-              timeperiod: 2016,
-              title: "Specialized Technician Diploma",
-              descriptions: [
-                "Specialized Technician Diploma in Software Development.",
-              ],
-            },
-            {
-              timeperiod: 2014,
-              title: "Scientific Baccalaureate",
-              descriptions: ["High-school Diploma in Maths"],
-            },
-          ],
-        },
-        {
-          right: false,
           title: "CERTIFICATIONS",
           items: [
             {
@@ -146,7 +121,7 @@ export default {
             },
             {
               title: "Frameworks",
-              descriptions: ["Angular, VueJs, ReactJs, AlpineJs, ASP.NET Core"],
+              descriptions: ["NextJs, Angular, VueJs, AlpineJs, ASP.NET Core"],
             },
             {
               title: "DataBase",
@@ -180,6 +155,41 @@ export default {
             },
             {
               title: "Database Management",
+            },
+          ],
+        },
+        {
+          right: true,
+          title: "STUDIES",
+          items: [
+            {
+              timeperiod: 2022,
+              title: "Information Systems Engineering",
+              descriptions: [
+                "Database administrator.",
+                "IS Project Manager.",
+                "IS study and development consultant.",
+              ],
+            },
+            {
+              timeperiod: 2020,
+              title: "Computer System Engineering",
+              descriptions: [
+                "Mastery of statistical and data analysis methods.",
+                "Participate in data engineering project for decision making.",
+              ],
+            },
+            {
+              timeperiod: 2016,
+              title: "Specialized Technician Diploma",
+              descriptions: [
+                "Specialized Technician Diploma in Software Development.",
+              ],
+            },
+            {
+              timeperiod: 2014,
+              title: "Scientific Baccalaureate",
+              descriptions: ["High-school Diploma in Maths"],
             },
           ],
         },
