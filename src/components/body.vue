@@ -37,15 +37,15 @@ export default {
                 '<strong>Solution Architect</strong> for <u><a target="_blank" href="https://lebateaufrancais.com/">Le Bateau Français</a></u> Developed a comprehensive landing page, booking system, and management solution using Next.js, TypeScript, PostgreSQL, Google Calendar, Stripe, and more..',
                 '<strong>Solution Architect</strong> for <u><a target="_blank" href="https://gallery.artibar.com/fr">Artibar Gallery</a></u> Led the creation of an AI-driven platform featuring two core solutions—an online marketplace for selling and exhibiting art, and a text-to-image AI tool that enables users to generate their own artwork using custom AI models developed by our team.',
                 '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://chat.rebbebot.com/">RebbeBot</a></u> Developed a GPT-based chatbot that provides responses. enhancing user engagement and interaction on the platform.',
-                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://staff.furrytag.com/login">Furrytag</a></u> Designed and developed a staff dashboard for vets, groomers, and other professionals to manage and update pets information in the AI-powered pet management app.'
+                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://furrytag.com/">Furrytag</a></u> Designed and developed a staff dashboard for vets, groomers, and other professionals to manage and update pets information in the AI-powered pet management app.'
               ],
             },
             {
               timeperiod: "08/2019 → 07/2022",
               title: "DATAFLEX",
               descriptions: [
-                'Remote Full Stack Developer for <u><a href="https://qrmenu.com/">QRmenu</a></u> <strong>(Angular, AWS Lambda, NodeTs)</strong>.',
-                'Remote Full Stack Developer for <u><a href="https://dopweb.com/">Dopweb</a></u> <strong>(Angular, AWS Lambda, NodeTs)</strong>.',
+                'Remote Full Stack Developer for <u><a target="_blank" href="https://qrmenu.com/">QRmenu</a></u> <strong>(Angular, AWS Lambda, NodeTs)</strong>.',
+                'Remote Full Stack Developer for <u><a target="_blank" href="https://dopweb.com/">Dopweb</a></u> <strong>(Angular, AWS Lambda, NodeTs)</strong>.',
                 "Managment & Development of multiple Shopify stores <strong>AlpineJs , Shopify APIs, NodeJs, BOLD API...</strong>.",
                 "Making AMP Responsive Templates for a website builder platform.",
                 "APIs integration for a website builder platform <strong>(Google Analytic, Search Console, Lighthouse, Google adsense, Stripe, Rank Tracker ...)</strong>.",
@@ -110,22 +110,24 @@ export default {
           items: [
             {
               title: "Teamwork and autonomy",
-              descriptions: ["Git, TFS, Jira, Trello, Asana"],
+              descriptions: ["Git, Slack, Jira, Trello, Asana ..."],
             },
             {
               title: "Technologies",
               descriptions: [
-                "AWS services, C#, TypeScript, JavaScript",
-                "Stitches, AMP, REST, GraphQL ...",
+                "AWS services, TypeScript, JavaScript, C#",
+                "Redux, Context API",
+                "Sentry, CloudWatch, Hotjar, Microsoft Clarity, Google analytics ...",
+                "AMP, REST, GraphQL ...",
               ],
             },
             {
               title: "Frameworks",
-              descriptions: ["NextJs, Angular, VueJs, AlpineJs, ASP.NET Core"],
+              descriptions: ["NextJs, Angular, VueJs, AlpineJs, .NET Core, Tailwind, Bootstrap..."],
             },
             {
-              title: "DataBase",
-              descriptions: ["SQL Server, PostgreSQL, MongoDB, DynamoDB"],
+              title: "Database",
+              descriptions: ["PostgreSQL, SQL Server, MongoDB, DynamoDB"],
             },
             {
               title: "DevOps and CI",
