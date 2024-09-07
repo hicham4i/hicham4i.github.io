@@ -131,7 +131,7 @@ export default {
             },
             {
               title: "DevOps and CI",
-              descriptions: ["Docker, Vagrant, Travis CI"],
+              descriptions: ["Docker, AWS CodePipeline, CircleCI, Travis CI"],
             },
             {
               title: "Servers",
