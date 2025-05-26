@@ -34,9 +34,9 @@ export default {
               timeperiod: "08/2022 → CURRENT",
               title: "WEBDEV26",
               descriptions: [
-                '<strong>Solution Architect</strong> for <u><a target="_blank" href="https://lebateaufrancais.com/">Le Bateau Français</a></u> Developed a comprehensive landing page, booking system, and management solution using Next.js, TypeScript, PostgreSQL, Google Calendar, Stripe, and more..',
-                '<strong>Solution Architect</strong> for <u><a target="_blank" href="https://gallery.artibar.com/fr">Artibar Gallery</a></u> Led the creation of an AI-driven platform featuring two core solutions—an online marketplace for selling and exhibiting art, and a text-to-image AI tool that enables users to generate their own artwork using custom AI models developed by our team.',
-                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://chat.rebbebot.com/">RebbeBot</a></u> Developed a GPT-based chatbot that provides responses. enhancing user engagement and interaction on the platform.',
+                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://karlbook.com/">Karlbook</a></u> Developing and maintaining a comprehensive booking platform with landing page and management dashboard using Next.js, TypeScript, PostgreSQL, Google Calendar, Stripe integration and more.',
+                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://lebateaufrancais.com/">Le Bateau Français</a></u> Developing and maintaining a comprehensive booking platform with landing page and management dashboard using Next.js, TypeScript, PostgreSQL, Google Calendar, Stripe integration and more.',
+                '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://gallery.artibar.com/fr">Artibar Gallery</a></u> Led the creation of an AI-driven platform featuring two core solutions—an online marketplace for selling and exhibiting art, and a text-to-image AI tool that enables users to generate their own artwork using custom AI models developed by our team.',
                 '<strong>Full Stack Developer</strong> for <u><a target="_blank" href="https://furrytag.com/">Furrytag</a></u> Designed and developed a staff dashboard for vets, groomers, and other professionals to manage and update pets information in the AI-powered pet management app.'
               ],
             },
@@ -55,8 +55,7 @@ export default {
               timeperiod: "2017 → 08/2019",
               title: "SOMAGEC",
               descriptions: [
-                "Creation of Mobile Applications with <strong>Xamarin</strong> and <strong>Java</strong>.",
-                "Creation of Web Applications with <strong>Core.NET</strong> and <strong>Angular</strong>.",
+                "Creation of Intranet Web Applications with <strong>Core.NET</strong> and <strong>Angular</strong>.",
               ],
             },
             {
